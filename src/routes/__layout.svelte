@@ -4,9 +4,9 @@
 	import '../app.css';
 </script>
 
-<div>
+<div class="flex flex-col min-h-screen">
 	<Navbar />
-	<main>
+	<main class="flex-grow">
 		<slot />
 	</main>
 
