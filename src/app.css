@@ -5,10 +5,11 @@
 @tailwind components;
 @tailwind utilities;
 
-
 body {
-    font-family: 'Lora', serif;
+	font-family: 'Lora', serif;
 }
-h1, h2, h3 {
-    font-family: 'Cinzel', serif;
+h1,
+h2,
+h3 {
+	font-family: 'Cinzel', serif;
 }

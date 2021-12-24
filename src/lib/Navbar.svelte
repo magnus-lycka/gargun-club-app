@@ -1,5 +1,5 @@
 <script>
-    import ThemeButton from "./ThemeButton.svelte";
+	import ThemeButton from './ThemeButton.svelte';
 </script>
 
 <div class="navbar mb-2 shadow ">
@@ -12,5 +12,5 @@
 		<a href="/" class="btn btn-ghost"> Home </a>
 		<a href="/about" class="btn  btn-ghost"> About </a>
 	</div>
-    <ThemeButton/>
+	<ThemeButton />
 </div>

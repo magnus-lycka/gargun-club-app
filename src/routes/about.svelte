@@ -23,17 +23,14 @@
 		<h1 class="text-3xl font-bold mb-1 mt-3">About the Gârgun Club</h1>
 
 		<p>
-			This site is intended to provide support for my (Magnus Lyckå)
-			role-playing activities, and for the people I play with,
-			but parts of it will hopefully be
-			useful for more people interested in role-playing etc.
+			This site is intended to provide support for my (Magnus Lyckå) role-playing activities, and
+			for the people I play with, but parts of it will hopefully be useful for more people
+			interested in role-playing etc.
 		</p>
-	
+
 		<h2 class="text-2xl font-bold mb-1 mt-3">Contributing</h2>
-	
-		<p>
-			TBD...
-		</p>	
+
+		<p>TBD...</p>
 	</div>
 </div>
 
